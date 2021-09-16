@@ -1,3 +1,4 @@
+<html>
 <svg version="1.1" viewBox="0 0 100 100">
   <defs>
     <clipPath id="user-space" clipPathUnits="userSpaceOnUse">
@@ -5,4 +6,5 @@
     </clipPath>
   </defs>
   
-</svg>	
+</svg>
+</html>
